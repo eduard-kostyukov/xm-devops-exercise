@@ -6,16 +6,16 @@ For validation purpose was used minikube on a workstation.
 
 ## Prerequisites
 
-[Docker](https://docs.docker.com/engine/install/)
-[Kubernetes](https://kubernetes.io/releases/download/)
-[Helm](https://helm.sh/docs/helm/helm_install/)
-[Minikube](https://minikube.sigs.k8s.io/docs/start/)
+[Docker](https://docs.docker.com/engine/install/)  
+[Kubernetes](https://kubernetes.io/releases/download/)  
+[Helm](https://helm.sh/docs/helm/helm_install/)  
+[Minikube](https://minikube.sigs.k8s.io/docs/start/)  
 
 ## Installation
 
-`git clone git@github.com:eduard-kostyukov/xm-devops-exercise.git
- cd xm-devops-exercise
- sh ./deploy.sh`
+`git clone git@github.com:eduard-kostyukov/xm-devops-exercise.git`  
+ `cd xm-devops-exercise`  
+ `sh ./deploy.sh`  
 
 ## Improvements
 
