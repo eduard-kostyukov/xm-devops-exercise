@@ -17,6 +17,10 @@ For validation purpose was used minikube on a workstation.
  `cd xm-devops-exercise`  
  `sh ./deploy.sh`  
 
+## Testing
+ 
+ `sh ./test.sh`  
+
 ## Improvements
 
 Regarding requirements, current solution can be updated with next additions:
