@@ -1,0 +1,5 @@
+# Defaults
+
+image: kosedmos/api:v1.0.0
+namespace: myns
+replicas: 3
