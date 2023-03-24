@@ -28,4 +28,3 @@ Regarding requirements, current solution can be updated with next additions:
 1) Advanced versionong and tagging (now it is hardcoded values)
 2) Docker images clean-up.
 3) Automated tests after deployment
-4) Push images to container registry
